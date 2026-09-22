@@ -1,3 +1,5 @@
+> **Archived reference fork.** This copy is no longer maintained. Visit the [original project](https://github.com/remoteintech/remote-jobs) for its current content and contribution guidance. For Android and AI learning, visit [Android Engineers Academy](https://www.androidengineers.in/roadmap).
+
 > **About this fork:** This repository is an Android Engineers fork of [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs). Original content and attribution are preserved. Check the upstream repository for its current content and contribution guidance.
 
 # Remote-friendly companies
