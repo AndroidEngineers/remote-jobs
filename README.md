@@ -1,3 +1,5 @@
+> **About this fork:** This repository is an Android Engineers fork of [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs). Original content and attribution are preserved. Check the upstream repository for its current content and contribution guidance.
+
 # Remote-friendly companies
 
 A list of semi to fully remote-friendly companies in or around tech.
